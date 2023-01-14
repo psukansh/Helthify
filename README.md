@@ -43,6 +43,8 @@ Use Medindia's Heart Rate (Pulse Rate) During Physical Exertion Calculator and c
 
 **medicine auto_order:**
 
+![alt text](https://www.goodreturns.in/img/2018/03/seniors-1522306447.jpg)
+
 For special and regular disease like asthma,sugar,bp or any other disease  patients want time to time medicine then we added feature  this will add a limit on the number of days for medicine then hospital authorities send a medicine on user location ya doorstep.
 
  
